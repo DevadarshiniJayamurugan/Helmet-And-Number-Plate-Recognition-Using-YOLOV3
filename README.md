@@ -26,5 +26,7 @@ Steps to use the code:
 5. Ssave the python file and run it 
 6. You will have your output.
 
+The other files are of large size so here's the drive link that consists all.
+https://drive.google.com/drive/folders/1S0wm80cMgs2U_3qLqLykbgFJ5b2CPWid?usp=drive_link
 
 Have a Nice Day!!
